@@ -1,0 +1,1 @@
+Scoreboard counter made with javascript
